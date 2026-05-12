@@ -21,6 +21,6 @@ Evalúa el modelo con validación cruzada de 5 folds para una métrica más fiab
 
 Resultados: 
 
-Precisión en test0.74
+Precisión en test: 0.74
 
 Media validación cruzada (cv=5)~0.68

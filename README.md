@@ -1,4 +1,5 @@
-Optimización de Modelo RandomForest
+Optimización de Modelo RandomForest.
+
 Clasificación binaria sobre el dataset de diabetes de scikit-learn, aplicando selección de características, pipeline y validación cruzada.
 
 Tecnologías: 

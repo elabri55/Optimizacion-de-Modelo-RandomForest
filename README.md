@@ -9,6 +9,7 @@ Python · pandas · NumPy · scikit-learn
 
 
 Qué hace?: 
+
 Convierte un problema de regresión en clasificación
 
 Selecciona las 4 características más relevantes con SelectKBest y el test ANOVA F
